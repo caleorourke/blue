@@ -1,6 +1,4 @@
-# Plum
-
-**Products. Community. Engineering. Quality.**
+**Product. Community. Engineering. Quality.**
 
 Plum introduces a new **IBM Cloud Engineering** page. The intent is to advertise what we do, how cool we are, and publicly showcase our teams to job candidates and visitors of our public-facing website.
 
