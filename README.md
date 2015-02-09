@@ -1,4 +1,4 @@
-**Product. Community. Engineering. Quality.**
+#### Product. Community. Engineering. Quality.
 
 Plum introduces a new **IBM Cloud Engineering** page. The intent is to advertise what we do, how cool we are, and publicly showcase our teams to job candidates and visitors of our public-facing website.
 
@@ -27,7 +27,7 @@ Run `jekyll serve` to preview Plum. Once it starts, open up a browser and type `
 
 Run `jekyll serve --watch` if you want to monitor changes while applying code updates.
 
-#### Stopping Serve Mode
+#### Stop Preview
 
 Serve mode lasts forever. Press `CTRL+C` to stop the service.
 
