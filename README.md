@@ -17,15 +17,15 @@ Run the following commands.
     $ gem install bundler
     $ bundle install
 
-### Preview
+## Serve Mode
 
 Run `jekyll serve` to preview Plum. Once it starts, open up a browser and type `localhost:4000/prototype` for the web address.
 
-##### Watch Option
+### Watch Option
 
 Run `jekyll serve --watch` if you want to monitor changes while applying code updates.
 
-##### Stop Preview
+### Stop Serve Mode
 
 Serve mode lasts forever. Press `CTRL+C` to stop the service.
 
