@@ -1,10 +1,10 @@
 # Plum
 
-**Products. Engineering. Quality. Community.**
+**Products. Community. Engineering. Quality.**
 
-Plum introduces a new **IBM Cloud** page. The intent is to advertise what we do, how cool we are, and publicly showcase our teams to job candidates and visitors of our public-facing website.
+Plum introduces a new **IBM Cloud Engineering** page. The intent is to advertise what we do, how cool we are, and publicly showcase our teams to job candidates and visitors of our public-facing website.
 
-## Local Preview
+## Local Deployment
 
 Below is a quick "how to" for cloning, installing, and running Plum locally.
 
@@ -21,14 +21,18 @@ Run the following commands.
     $ gem install bundler
     $ bundle install
 
-### Serving
+### Preview
 
-Run `jekyll serve` to preview Plum locally. Once Jekyll starts, fire up a browser and type `localhost:4000/prototype` for the web address.
+Run `jekyll serve` to preview Plum. Once it starts, open up a browser and type `localhost:4000/prototype` for the web address.
 
 #### Watch Option
 
-Run `jekyll serve --watch` to monitor changes and apply updates.
+Run `jekyll serve --watch` if you want to monitor changes while applying code updates.
 
-#### Killing Jekyll
+#### Stopping Serve Mode
 
 Serve mode lasts forever. Press `CTRL+C` to stop the service.
+
+## License
+
+Code and documentation licensed under the terms of the MIT License.
