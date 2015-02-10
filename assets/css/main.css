@@ -41,14 +41,14 @@ ul {
 h1 {
   letter-spacing: -.03em;
   font-weight: 300;
-  font-size: 45px;
+  font-size: 42px;
 }
 
 h3 {
   margin: 28px 0 8px;
   letter-spacing: -.01em;
   font-size: 30px;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 a {
@@ -78,9 +78,9 @@ img {
   .navbar {
     height: 65px;
     background-color: rgba(255,255,255,.97);
-    -webkit-transition: background .5s ease-in-out;
-       -moz-transition: background .5s ease-in-out;
-            transition: background .5s ease-in-out;
+    -webkit-transition: background .4s ease-in-out;
+       -moz-transition: background .4s ease-in-out;
+            transition: background .4s ease-in-out;
   }
 
   .nav-collapse-top {
@@ -102,16 +102,16 @@ img {
 
 .hero .title {
   margin-bottom: 5px;
-  font-size: 47px;
+  font-size: 45px;
   font-weight: 300;
-  line-height: 1.2;
+  line-height: 1.1;
   letter-spacing: -.02em;
 }
 
 .hero .tagline {
   font-size: 31px;
   font-weight: 300;
-  line-height: 1.2;
+  line-height: 1.1;
   letter-spacing: -.01em;
   margin-top: 0;
   margin-bottom: 35px;
