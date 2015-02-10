@@ -117,14 +117,14 @@ img {
   margin-bottom: 35px;
 }
 
-.banner, .labs, .engineering, .oss, .jobs {
+.banner, .architecture, .engineering, .community, .jobs {
   min-height: 100%;
   padding-top: 50px;
   padding-bottom: 0;
 }
 
 @media(min-width: 992px) {
-  .hero, .banner, .labs, .engineering, .oss, .jobs {
+  .hero, .banner, .architecture, .engineering, .community, .jobs {
     padding-bottom: 80px;
   }
 }
