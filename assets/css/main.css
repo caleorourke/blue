@@ -24,18 +24,18 @@
 
 body {
   width: 100%;
-  font-size: 18px;
+  font-size: 16px;
   color: #231f20;
   font-family: "Benton Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 p {
-  margin-bottom: 16px;
+  margin-bottom: 12px;
 }
 
 ol,
 ul {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 h1 {
@@ -52,11 +52,11 @@ h3 {
 }
 
 a {
-  color: #4087c4;
+  color: #2787c2;
 }
 
 a:hover, a:focus, a:active {
-  color: #4087c4;
+  color: #2787c2;
   text-decoration: underline;
 }
 
@@ -89,7 +89,7 @@ img {
 
   .navbar-nav > li > a {
     line-height: 34px;
-    font-size: 16px;
+    font-size: 14px;
     text-transform: uppercase;
   }
 }
