@@ -1,0 +1,7 @@
+_site
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.lock
+*.log
