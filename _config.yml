@@ -1,2 +1,4 @@
-permalink:  pretty
-exclude:    [".gitignore", "Gemfile"]
+permalink: pretty
+exclude: [".gitignore", "Gemfile"]
+gems:
+- jekyll-sitemap
