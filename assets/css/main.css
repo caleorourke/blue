@@ -47,7 +47,7 @@ h1 {
 h3 {
   margin: 28px 0 8px;
   letter-spacing: -.01em;
-  font-size: 34px;
+  font-size: 30px;
   font-weight: 400;
 }
 
@@ -55,7 +55,7 @@ a {
   color: #2787c2;
 }
 
-a:hover, a:focus, a:active {
+a:hover, a:focus, a:active, a.active {
   color: #2787c2;
   text-decoration: underline;
 }
@@ -101,7 +101,7 @@ img {
 }
 
 .hero .title {
-  margin-bottom: 6px;
+  margin-bottom: 5px;
   font-size: 47px;
   font-weight: 300;
   line-height: 1.2;
