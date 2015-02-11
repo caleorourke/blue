@@ -75,7 +75,12 @@ img {
   border-radius: 5px;
 }
 
+.borderless > img {
+  border: 0;
+}
+
 .navbar-brand {
+  padding-top: 7px;
   font-size: 20px;
   line-height: 32px;
 }

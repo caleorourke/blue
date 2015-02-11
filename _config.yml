@@ -1,22 +1,39 @@
+#
+# * Config
+# * Stores static configuration and project info
+# *
+# * Copyright © SoftLayer, an IBM Company
+# * Released under the MIT license
+#
+
+# ==============================
+# Tags
+# ==============================
+
 company:
   official:   IBM Corporation
   shorthand:  IBM
-division:     IBM Cloud
-group:
-  name:       IBM Cloud Development
+
+div:
+  official:   IBM Cloud
+  group:      IBM Cloud Development
   tagline:    "Closing the gap between users and technology."
 
 team:
   arch:       Architecture
-  comm:       Community Development
-  engr:       "Engineering & Quality"
-  infra:      Infrastructure Development
-  prod:       Product Development
+  comm:       Community
+  engr:       Engineering
+  infra:      Infrastructure
+  prod:       Product
 
 job:
   arch:       Software Architect
   engr:       Software Engineer
   prod:       Product Manager
+
+# ==============================
+# Server
+# ==============================
 
 permalink:    pretty
 exclude:      [".gitignore", "Gemfile", "LICENSE", "README.md"]
