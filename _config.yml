@@ -1,17 +1,23 @@
-company: IBM
-division: IBM Cloud
-group: IBM Cloud Development
-  tagline: "Closing the gap between users and technology."
-  architecture: Architecture
-    job: Software Architect
-  community: Community Development
-  engineering: "Engineering & Quality"
-  infrastructure: Infrastructure Development
-    job: Software Engineer
-  product: Product Development
-    job: Product Manager
+company:    IBM Corporation
+division:   IBM Cloud
+group:
+  name:     IBM Cloud Development
+  tagline:  "Closing the gap between users and technology."
 
-permalink: pretty
-exclude: [".gitignore", "Gemfile"]
+team:
+  arch:     Architecture
+  comm:     Community Development
+  engr:     "Engineering & Quality"
+  infra:    Infrastructure Development
+  prod:     Product Development
+
+job:
+  arch:     Software Architect
+  engr:     Software Engineer
+  prod:     Product Manager
+
+permalink:  pretty
+exclude:    [".gitignore", "Gemfile", "LICENSE", "README.md"]
+
 gems:
-- jekyll-sitemap
+  - jekyll-sitemap
