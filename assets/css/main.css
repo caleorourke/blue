@@ -41,13 +41,13 @@ ul {
 h1 {
   letter-spacing: -.03em;
   font-weight: 300;
-  font-size: 42px;
+  font-size: 40px;
 }
 
 h3 {
-  margin: 28px 0 8px;
+  margin: 25px 0 7px;
   letter-spacing: -.01em;
-  font-size: 31px;
+  font-size: 29px;
   font-weight: 300;
 }
 
@@ -64,7 +64,7 @@ img {
   display: inline-block;
   max-width: 100%;
   height: auto;
-  padding: .5em;
+  padding: 7px;
   border: 1px solid #d1d3d4;
   border-radius: 5px;
 }
@@ -72,6 +72,10 @@ img {
 .navbar-brand {
   font-size: 20px;
   line-height: 32px;
+}
+
+li.active > a.smooth {
+  height: 65px !important;
 }
 
 @media(min-width: 768px) {
@@ -88,8 +92,8 @@ img {
   }
 
   .navbar-nav > li > a {
-    line-height: 34px;
-    font-size: 14px;
+    line-height: 38px;
+    font-size: 13.5px;
     text-transform: uppercase;
   }
 }
@@ -130,22 +134,22 @@ img {
 }
 
 .panel {
-  margin-bottom: 2em;
+  margin-bottom: 32px;
 }
 
 .panel-box {
-  padding: 1em;
+  padding: 16px;
 }
 
 .panel-box .panel-title {
-  font-size: 1.75em;
+  font-size: 28px;
   font-weight: 300;
-  padding: .25em 0 0 .125em;
+  padding: 5px 0 0 2px;
   color: #231f20;
 }
 
 .panel-box .panel-teaser {
-  margin: -1.063em -1.063em 3em;
+  margin: -17px -17px 48px;
 }
 
 .panel-box .panel-teaser > * {
