@@ -52,11 +52,11 @@ h3 {
 }
 
 a {
-  color: #2787c2;
+  color: #117dbb;
 }
 
 a:hover, a:focus, a:active, a.active {
-  color: #2787c2;
+  color: #117dbb;
   text-decoration: underline;
 }
 
@@ -128,13 +128,14 @@ li.active > a.smooth {
 }
 
 @media(min-width: 992px) {
-  .hero, .banner, .architecture, .engineering, .community, .jobs {
+  .hero, .architecture, .engineering, .community, .jobs {
     padding-bottom: 80px;
   }
 }
 
 .panel {
   margin-bottom: 32px;
+  box-shadow: none;
 }
 
 .panel-box {
