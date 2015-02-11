@@ -1,25 +1,25 @@
-Plum introduces a new **IBM Cloud Engineering** concept page. The intent is to advertise what we do, how cool we are, and showcase our teams to job candidates and visitors of our public-facing website.
+Piccolo introduces a new **IBM Cloud Development** concept page. The intent is to advertise what we do, how cool we are, and showcase our teams to job candidates and visitors of our public-facing website.
 
 ## Local Deployment
 
-Below is a quick "how to" for cloning, installing, and running Plum locally.
+Below is a quick "how to" for cloning, installing, and running Piccolo locally.
 
 ### Prerequisites
 
-Plum requires __Ruby 1.9.3__ at minimum. [Click here](http://www.ruby-lang.org/en/installation) to download and install Ruby. If you have Ruby, but aren’t sure which version, run `ruby -v`.
+Piccolo requires __Ruby 1.9.3__ at minimum. [Click here](http://www.ruby-lang.org/en/installation) to download and install Ruby. If you have Ruby, but aren’t sure which version, run `ruby -v`.
 
 ### Clone and Install
 
 Run the following commands.
 
-    $ git clone -b gh-pages https://github.com/caleorourke/plum.git
-    $ cd plum
+    $ git clone -b gh-pages https://github.com/caleorourke/piccolo.git
+    $ cd piccolo
     $ gem install bundler
     $ bundle install
 
 ## Serve Mode
 
-Run `jekyll serve` to preview Plum. Once it starts, open up a browser and type `localhost:4000/prototype` for the web address.
+Run `jekyll serve` to preview Piccolo. Once it starts, open up a browser and type `localhost:4000/prototype` for the web address.
 
 ### Watch Option
 
