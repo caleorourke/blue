@@ -1,23 +1,25 @@
-company:    IBM Corporation
-division:   IBM Cloud
+company:
+  official:   IBM Corporation
+  shorthand:  IBM
+division:     IBM Cloud
 group:
-  name:     IBM Cloud Development
-  tagline:  "Closing the gap between users and technology."
+  name:       IBM Cloud Development
+  tagline:    "Closing the gap between users and technology."
 
 team:
-  arch:     Architecture
-  comm:     Community Development
-  engr:     "Engineering & Quality"
-  infra:    Infrastructure Development
-  prod:     Product Development
+  arch:       Architecture
+  comm:       Community Development
+  engr:       "Engineering & Quality"
+  infra:      Infrastructure Development
+  prod:       Product Development
 
 job:
-  arch:     Software Architect
-  engr:     Software Engineer
-  prod:     Product Manager
+  arch:       Software Architect
+  engr:       Software Engineer
+  prod:       Product Manager
 
-permalink:  pretty
-exclude:    [".gitignore", "Gemfile", "LICENSE", "README.md"]
+permalink:    pretty
+exclude:      [".gitignore", "Gemfile", "LICENSE", "README.md"]
 
 gems:
   - jekyll-sitemap
