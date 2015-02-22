@@ -52,13 +52,12 @@ h3 {
 }
 
 a {
-  color: #117dbb;
+  color: #298fce;
 }
 
 a:hover,
-a:focus,
-a:active {
-  color: #117dbb;
+a:focus {
+  color: #298fce;
   text-decoration: underline;
 }
 
@@ -72,7 +71,7 @@ img {
   height: auto;
   padding: 7px;
   border: 1px solid #d1d3d4;
-  border-radius: 5px;
+  border-radius: 4px;
 }
 
 .borderless > img {
@@ -124,14 +123,14 @@ img {
   margin-bottom: 5px;
   font-size: 45px;
   font-weight: 300;
-  line-height: 1.1;
+  line-height: 1.1111;
   letter-spacing: -.02em;
 }
 
 .hero .tagline {
-  font-size: 31px;
+  font-size: 30px;
   font-weight: 300;
-  line-height: 1.1;
+  line-height: 1.1111;
   letter-spacing: -.01em;
   margin-top: 0;
   margin-bottom: 35px;
@@ -163,7 +162,7 @@ img {
 }
 
 .panel-box {
-  padding: 16px;
+  padding: 15px;
 }
 
 .panel-box .panel-title {
@@ -178,6 +177,6 @@ img {
 }
 
 .panel-box .panel-teaser > * {
-  border-radius: 3px;
+  border-radius: 4px;
   text-decoration: none;
 }
