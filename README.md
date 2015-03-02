@@ -19,13 +19,13 @@ Run the following commands.
 
 ## Serve Mode
 
-Run `jekyll serve` to preview Piccolo. Once it starts, open up a browser and type `localhost:4000/prototype` for the web address.
+Run `jekyll serve` to preview Piccolo. Once it starts, open up a browser and type `localhost:4000` for the web address.
 
 ### Watch Option
 
 Run `jekyll serve --watch` if you want to monitor changes while applying code updates.
 
-### Stop Serve Mode
+### Stopping Serve Mode
 
 Serve mode lasts forever. Press `CTRL+C` to stop the service.
 
