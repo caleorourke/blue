@@ -1,4 +1,6 @@
-Piccolo introduces a new **IBM Cloud Development** concept page. The intent is to advertise what we do, how cool we are, and showcase our teams to job candidates and visitors of our public-facing website.
+## Piccolo
+
+Introducing Piccolo, an **IBM Cloud Development** concept page. The intent is to advertise what we do, how cool we are, and showcase our teams to job candidates and visitors of our public-facing website.
 
 ## Local Deployment
 
@@ -6,7 +8,16 @@ Below is a quick "how to" for cloning, installing, and running Piccolo locally.
 
 ### Prerequisites
 
-Piccolo requires __Ruby 1.9.3__ at minimum. [Click here](http://www.ruby-lang.org/en/installation) to download and install Ruby. If you have Ruby, but aren’t sure which version, run `ruby -v`.
+Piccolo requires the latest, stable Ruby package for the following versions: 
+
+* Ruby 1.9.3 (p551)
+* Ruby 2.0.0 (p643)
+* Ruby 2.1.5
+* Ruby 2.2.1
+
+[Click here](http://www.ruby-lang.org/en/downloads) to download and install Ruby. 
+
+> If you have Ruby, but aren’t sure which version, run `ruby -v`.
 
 ### Clone and Install
 
