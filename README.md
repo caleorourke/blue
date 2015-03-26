@@ -8,9 +8,8 @@ Below is a quick "how to" for cloning, installing, and running Piccolo locally.
 
 ### Prerequisites
 
-Piccolo requires the latest, stable Ruby package for the following versions: 
+Piccolo requires the latest, stable Ruby packages for the following versions: 
 
-* Ruby 1.9.3 (p551)
 * Ruby 2.0.0 (p643)
 * Ruby 2.1.5
 * Ruby 2.2.1
