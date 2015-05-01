@@ -1,14 +1,14 @@
-## Piccolo
+## Limelight
 
-Introducing Piccolo, an **IBM Cloud Development** concept page. The intent is to advertise what we do, how cool we are, and showcase our teams to job candidates and visitors of our public-facing website.
+Introducing Limelight, an **IBM Cloud Development** concept page. The intent is to advertise what we do, how cool we are, and showcase our teams to job candidates and visitors of our public-facing website.
 
 ## Local Deployment
 
-Below is a quick "how to" for cloning, installing, and running Piccolo locally.
+Below is a quick "how to" for cloning, installing, and running Limelight locally.
 
 ### Prerequisites
 
-Piccolo requires the latest, stable Ruby packages for the following versions: 
+Limelight requires the latest, stable Ruby packages for the following versions: 
 
 * Ruby 2.0.0 (p643)
 * Ruby 2.1.5
@@ -22,14 +22,14 @@ Piccolo requires the latest, stable Ruby packages for the following versions:
 
 Run the following commands.
 
-    $ git clone -b gh-pages https://github.com/caleorourke/piccolo.git
-    $ cd piccolo
+    $ git clone -b gh-pages https://github.com/caleorourke/limelight.git
+    $ cd limelight
     $ gem install bundler
     $ bundle install
 
 ### Serve Mode
 
-Run `jekyll serve` to preview Piccolo. Once it starts, open up a browser and type `localhost:4000` for the web address.
+Run `jekyll serve` to preview Limelight. Once it starts, open up a browser and type `localhost:4000` for the web address.
 
 #### Watch Option
 
