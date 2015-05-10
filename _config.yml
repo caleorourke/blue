@@ -16,15 +16,18 @@ company:
 
 div:
   official:   IBM Cloud
-  group:      IBM Cloud Development
+  group:      SoftLayer Development
   tagline:    "Closing the gap between users and technology."
 
 team:
   arch:       Architecture
-  comm:       Community
   engr:       Engineering
-  infra:      Infrastructure
-  prod:       Product
+  open:       Open Technology
+
+section:
+  arch:       architecture
+  engr:       engineering
+  open:       open-technology
 
 job:
   arch:       Software Architect
