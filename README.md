@@ -1,6 +1,6 @@
 ## Limelight
 
-Limelight is a **SoftLayer Development** concept page that advertises what we do, how cool we are, and showcases our teams to job candidates and visitors of our future public-facing website.
+Limelight is a **SoftLayer Development** concept page that advertises what we do, how cool we are, and showcases our teams to job candidates and visitors. It's designed specifically for hosting on GitHub using GitHub Pages and can be served up locally using Jekyll.
 
 ## Local Deployment
 
