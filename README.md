@@ -1,6 +1,6 @@
 ## Limelight
 
-Introducing Limelight, an **IBM Cloud Development** concept page. The intent is to advertise what we do, how cool we are, and showcase our teams to job candidates and visitors of our public-facing website.
+Limelight is a **SoftLayer Development** concept page that advertises what we do, how cool we are, and showcases our teams to job candidates and visitors of our future public-facing website.
 
 ## Local Deployment
 
