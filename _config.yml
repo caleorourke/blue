@@ -22,12 +22,12 @@ div:
 team:
   arch:       Architecture
   engr:       Engineering
-  open:       Open Technology
+  oss:        Open Source
 
 section:
   arch:       architecture
   engr:       engineering
-  open:       open-technology
+  oss:        open-source
 
 job:
   arch:       Software Architect
