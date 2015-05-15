@@ -27,7 +27,7 @@ Run the following commands.
     $ gem install bundler
     $ bundle install
 
-### Serve Mode
+### Serve and Preview
 
 Run `jekyll serve` to preview Limelight. Once it starts, open up a browser and type `localhost:4000` for the web address.
 
@@ -37,7 +37,7 @@ Run `jekyll serve --watch` if you want to monitor changes while applying code up
 
 #### Stopping Serve Mode
 
-Serve mode lasts forever. Press `CTRL+C` to stop the service.
+Serve mode lasts forever. Press `CTRL+C` to stop serve mode.
 
 ## License
 
