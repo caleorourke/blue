@@ -1,14 +1,14 @@
-## Limelight
+## Blue
 
-Limelight is a **SoftLayer Development** concept page that advertises what we do, how cool we are, and showcases our teams to job candidates and visitors. It's designed specifically for hosting on GitHub using GitHub Pages and can be served up locally using Jekyll.
+Blue is a **SoftLayer Development** concept page that advertises what we do, how cool we are, and showcases our teams to job candidates and visitors. It's designed specifically for hosting on GitHub using GitHub Pages and can be served up locally using Jekyll.
 
 ## Local Deployment
 
-Below is a quick "how to" for cloning, installing, and running Limelight locally.
+Below is a quick "how to" for cloning, installing, and running Blue locally.
 
 ### Prerequisites
 
-Limelight requires the latest, stable Ruby packages for the following versions: 
+Blue requires the latest, stable Ruby packages for the following versions: 
 
 * Ruby 2.0.0 (p643)
 * Ruby 2.1.5
@@ -22,14 +22,14 @@ Limelight requires the latest, stable Ruby packages for the following versions:
 
 Run the following commands.
 
-    $ git clone -b gh-pages https://github.com/caleorourke/limelight.git
-    $ cd limelight
+    $ git clone -b gh-pages https://github.com/caleorourke/blue.git
+    $ cd blue
     $ gem install bundler
     $ bundle install
 
 ### Serve and Preview
 
-Run `jekyll serve` to preview Limelight. Once it starts, open up a browser and type `localhost:4000` for the web address.
+Run `jekyll serve` to preview Blue. Once it starts, open up a browser and type `localhost:4000` for the web address.
 
 #### Watch Option
 
