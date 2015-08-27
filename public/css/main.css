@@ -24,8 +24,8 @@
 
 body {
   width: 100%;
-  font-size: 16px;
   font-family: "Benton Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
   color: #231f20;
 }
 
@@ -39,16 +39,16 @@ ul {
 }
 
 h1 {
-  letter-spacing: -.03em;
-  font-weight: 300;
   font-size: 39px;
+  font-weight: 300;
+  letter-spacing: -.03em;
 }
 
 h3 {
   margin: 25px 0 7px;
-  letter-spacing: -.01em;
   font-size: 29px;
   font-weight: 300;
+  letter-spacing: -.01em;
 }
 
 a {
@@ -107,16 +107,16 @@ img {
   }
 
   .navbar-nav > li > a {
-    line-height: 38px;
     font-size: 13.5px;
+    line-height: 38px;
     text-transform: uppercase;
   }
 }
 
 .hero {
   min-height: 100%;
-  background: #fff;
   padding-top: 150px;
+  background: #fff;
 }
 
 .hero .title {
@@ -128,12 +128,12 @@ img {
 }
 
 .hero .tagline {
+  margin-top: 0;
+  margin-bottom: 35px;
   font-size: 30px;
   font-weight: 300;
   line-height: 1.1111;
   letter-spacing: -.01em;
-  margin-top: 0;
-  margin-bottom: 35px;
 }
 
 .architecture,
@@ -166,9 +166,9 @@ img {
 }
 
 .panel-box .panel-title {
+  padding: 5px 0 0 2px;
   font-size: 28px;
   font-weight: 300;
-  padding: 5px 0 0 2px;
   color: #231f20;
 }
 
@@ -177,6 +177,6 @@ img {
 }
 
 .panel-box .panel-teaser > * {
-  border-radius: 4px;
   text-decoration: none;
+  border-radius: 4px;
 }

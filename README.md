@@ -8,13 +8,13 @@ Below is a quick "how to" for cloning, installing, and running Blue locally.
 
 ### Prerequisites
 
-Blue requires the latest, stable Ruby packages for the following versions: 
+Blue requires the latest, stable Ruby packages for the following versions:
 
 * Ruby 2.0.0 (p643)
 * Ruby 2.1.5
 * Ruby 2.2.1
 
-[Click here](http://www.ruby-lang.org/en/downloads) to download and install Ruby. 
+[Click here](http://www.ruby-lang.org/en/downloads) to download and install Ruby.
 
 > If you have Ruby, but aren’t sure which version, run `ruby -v`.
 
@@ -22,10 +22,12 @@ Blue requires the latest, stable Ruby packages for the following versions:
 
 Run the following commands.
 
-    $ git clone -b gh-pages https://github.com/caleorourke/blue.git
-    $ cd blue
-    $ gem install bundler
-    $ bundle install
+```
+$ git clone -b gh-pages https://github.com/caleorourke/blue.git
+$ cd blue
+$ [sudo] gem install bundler
+$ bundle install
+```
 
 ### Serve and Preview
 
