@@ -1,14 +1,14 @@
-## Blue
+## TinyBlue
 
-Blue is a **SoftLayer Development** concept page that advertises what we do, how cool we are, and showcases our teams to job candidates and visitors. It's designed specifically for hosting on GitHub using GitHub Pages and can be served up locally using Jekyll.
+TinyBlue is a **SoftLayer Development** concept page that advertises what we do, how cool we are, and showcases our teams to job candidates and visitors. It's designed specifically for hosting on GitHub using GitHub Pages and can be served up locally using Jekyll.
 
 ## Local Deployment
 
-Below is a quick "how to" for cloning, installing, and running Blue locally.
+Below is a quick "how to" for cloning, installing, and running TinyBlue locally.
 
 ### Prerequisites
 
-Blue requires the latest, stable Ruby packages for the following versions:
+TinyBlue requires the latest, stable Ruby packages for the following versions:
 
 * Ruby 2.0.0 (p643)
 * Ruby 2.1.5
@@ -23,9 +23,9 @@ Blue requires the latest, stable Ruby packages for the following versions:
 Run the following commands.
 
 ```
-$ git clone -b gh-pages https://github.com/caleorourke/blue.git
-$ cd blue
-$ [sudo] gem install bundler
+$ git clone -b gh-pages https://github.com/caleorourke/tinyblue.git
+$ cd tinyblue
+$ gem install bundler
 $ bundle install
 ```
 
